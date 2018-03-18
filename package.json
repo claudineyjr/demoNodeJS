@@ -1,0 +1,26 @@
+{
+  "name": "demonodejs",
+  "version": "1.0.0",
+  "description": "A simple presentation of what Node.js can do",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudineyjr/demoNodeJS.git"
+  },
+  "keywords": [
+    "node.js",
+    "tutorial",
+    "talk",
+    "CaquiCoders"
+  ],
+  "author": "Claudiney Junior <claudiney.jr@caquicoders.com.br>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudineyjr/demoNodeJS/issues"
+  },
+  "homepage": "https://github.com/claudineyjr/demoNodeJS#readme"
+}
