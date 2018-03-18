@@ -21,7 +21,7 @@ module.exports = [
         id: 4,
         name: "Gisele",
         course: "Design Gráfico",
-        institution: "Faculdade de Tecnologia Carlos Drummond de Andrare"
+        institution: "Faculdade de Tecnologia Carlos Drummond de Andrade"
     },
     {
         id: 5,
